@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sqlite3": "mtxr.sqltools"
+    }
+    
+
+}
